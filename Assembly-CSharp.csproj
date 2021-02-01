@@ -64,21 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AIFollowPlayer.cs" />
-    <Compile Include="Assets\Scripts\CannonBall.cs" />
-    <Compile Include="Assets\Scripts\Catapult.cs" />
-    <Compile Include="Assets\Scripts\FreePlay\BasketballHoop.cs" />
-    <Compile Include="Assets\Scripts\FreePlay\CubeWall.cs" />
-    <Compile Include="Assets\Scripts\FreePlay\TargetBoard.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Gizmos\ArrowIndicator.cs" />
-    <Compile Include="Assets\Scripts\Gizmos\DistanceGizmo.cs" />
     <Compile Include="Assets\Scripts\GrapplingGun.cs" />
     <Compile Include="Assets\Scripts\Gun.cs" />
-    <Compile Include="Assets\Scripts\Helpers\Attributes\ReadOnlyAttribute.cs" />
-    <Compile Include="Assets\Scripts\Helpers\EEMath.cs" />
-    <Compile Include="Assets\Scripts\Helpers\ExtensionMethods.cs" />
-    <Compile Include="Assets\Scripts\Helpers\LogColors.cs" />
-    <Compile Include="Assets\Scripts\Helpers\Utils.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\MoveCam.cs" />
     <Compile Include="Assets\Scripts\MoveCamera.cs" />
@@ -92,15 +79,6 @@
     <Compile Include="Assets\Scripts\RotateGun.cs" />
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
     <Compile Include="Assets\Scripts\Target.cs" />
-    <Compile Include="Assets\Scripts\UI\ArrowInfoWidget.cs" />
-    <Compile Include="Assets\Scripts\UI\BasketBallUI.cs" />
-    <Compile Include="Assets\Scripts\UI\EnergyIndicator.cs" />
-    <Compile Include="Assets\Scripts\UI\EnergyInfoWidget.cs" />
-    <Compile Include="Assets\Scripts\UI\FreePlayBoxesUI.cs" />
-    <Compile Include="Assets\Scripts\UI\PhysicsInfoUIPanel.cs" />
-    <Compile Include="Assets\Scripts\UI\PopupNotification.cs" />
-    <Compile Include="Assets\Scripts\UI\TargetBoardUI.cs" />
-    <Compile Include="Assets\Scripts\UI\UIController.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -117,7 +95,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\sci-fi-weapons\README.txt" />
-    <None Include="Assets\Shaders\StandardGizmo.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
